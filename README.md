@@ -12,3 +12,4 @@ Third Project: Centroid Center of Mass:
 
 Fourth Project: Washer Method Vase:
 - Like solid of revolution but uses the washer method. The function x^2 is subtracted from x + 2sin(x) + 1. I had to do some work in Fusion 360 to make the Mathematica output 3D-printable.
+- I have also stretched the vase vertically to make it more practical. (see SolidRevVase ... taller.3mf)
