@@ -9,6 +9,7 @@
 
 ### Second Project - Solid of Revolution/Shells:
 - This project is a 3D representation of a solid of revolution based on the function $\int_{0}^{2} \left(\frac{1}{5}(x^2 + \cos(10x)) + 1\right) \ dx$. This code can generate the exact solid, represent the disk method, or generate both. I used the code to generate both 3D shapes. I repaired 3D objects in Fusion 360 then added text in TinkerCad before printing.
+- ![image of Solid of Revolution and Shell method print](https://github.com/OwenJF/3DPrintCalculus/blob/main/solidofrevolution.jpg)
 
 ### Third Project - Centroid Center of Mass:
 - Extrusion of function $y=\sqrt{x}$ with the centroid calculated in Mathematica. Printed with no walls and 100% infill to actually have a well-balanced shape. Unfortunately, this project did not work out as hoped.
