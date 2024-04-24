@@ -23,6 +23,7 @@
 - I did not use Mathematica for this project but rather used the Desmos graphing calculator to generate SVG files that I imported into TinkerCAD to model the ramps for the marble run.
 - One of the runs is a simple cycloid curve where if two marbles are dropped from any point on both sides, they will meet in the middle at the same time.
 - The second marble run is a demonstration of the Brachistochrone curve, which has the shortest travel time compared to the two other ramps.
+
   ![Both of the ramps](https://github.com/OwenJF/3DPrintCalculus/blob/main/cycloid%20and%20brachistochrone%20ramps.jpg)
 
 ### Sixth Project - Convergent Series Puzzle
