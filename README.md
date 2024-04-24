@@ -20,5 +20,5 @@
 - The second marble run is a demonstration of the Brachistochrone curve, which has the shortest travel time compared to the two other ramps.
 
 ### Sixth Project - Convergent Series Puzzle
-- This puzzle was designed in TinkerCAD. It features several square pieces that fit into the base. The sizes of the pieces are based on the geometric series $\sum\limits_{i=0}^{infty} \left(\frac{1}{2}\right)^n$, the idea being that each piece is half the size of the last piece, starting from 1. The pieces all fit into a base that contains the same summation notation. Since the series is infinite, I only have pieces that go up to 1/256 and then a piece labeled 
+- This puzzle was designed in TinkerCAD. It features several square pieces that fit into the base. The sizes of the pieces are based on the geometric series $\sum\limits_{i=0}^{\infty} \left(\frac{1}{2}\right)^n$, the idea being that each piece is half the size of the last piece, starting from 1. The pieces all fit into a base that contains the same summation notation. Since the series is infinite, I only have pieces that go up to 1/256 and then a piece labeled ${\infty}$ to represent the rest of the series. All of the pieces fit into a space that is 2 times the area of the first piece, which shows that the convergent sum of the series is 2.
 
